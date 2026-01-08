@@ -29,6 +29,6 @@ Soy estudiante de **Ingeniería en Sistemas en la UTN** y Desarrollador Web Juni
 ### 📊 Estadísticas de GitHub
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=omni" alt="Simon's Github Stats" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SimonFabrizio&show_icons=true&theme=omni" alt="Simon's Github Stats" width="45%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonFabrizio&layout=compact&theme=omni" alt="Top Langs" width="45%" />
 </p>
