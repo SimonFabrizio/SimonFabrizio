@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hola, soy Simon Fabrizio 👋
 
-<!--
-**SimonFabrizio/SimonFabrizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Ingeniería en Sistemas en la UTN** y Desarrollador Web Junior. Me apasiona combinar la lógica algorítmica (Backend/C) con interfaces visuales modernas.
 
-Here are some ideas to get you started:
+- 🔭 Actualmente trabajando en: **E-commerce para Viveros (SPA)**.
+- 🌱 Aprendiendo: **Arquitectura de Software y React**.
+- 🎓 Especialidad: **Lógica de programación, Estructuras de Datos y Frontend**.
+- 📫 Contacto: [simon.fabrizio01@gmail.com](mailto:simon.fabrizio01@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<div style="display: flex; gap: 10px; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+</div>
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</div>
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=omni" alt="Simon's Github Stats" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonFabrizio&layout=compact&theme=omni" alt="Top Langs" width="45%" />
+</p>
