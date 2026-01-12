@@ -23,12 +23,3 @@ Soy estudiante de **Ingeniería en Sistemas en la UTN** y Desarrollador Web Juni
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </div>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=SimonFabrizio&show_icons=true&theme=omni" alt="Simon's Github Stats" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonFabrizio&layout=compact&theme=omni" alt="Top Langs" width="45%" />
-</p>
