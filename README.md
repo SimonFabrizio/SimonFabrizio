@@ -3,7 +3,7 @@
 Soy estudiante de **Ingeniería en Sistemas en la UTN** y Desarrollador Web Junior. Me apasiona combinar la lógica algorítmica (Backend/C) con interfaces visuales modernas.
 
 - 🔭 Actualmente trabajando en: **E-commerce para Viveros (SPA)**.
-- 🌱 Aprendiendo: **Arquitectura de Software y React**.
+- 🌱 Aprendiendo: **Desarrollo Web**.
 - 🎓 Especialidad: **Lógica de programación, Estructuras de Datos y Frontend**.
 - 📫 Contacto: [simon.fabrizio01@gmail.com](mailto:simon.fabrizio01@gmail.com)
 
